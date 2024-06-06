@@ -1,5 +1,9 @@
 # github-tutorial
-This repository aims to give you more experience with working collaboratively as developeres in a repository. In this tutorial we will do the following things:
+This repository aims to give you more experience with working collaboratively as developeres in a repository. 
+## Prerequisites
+We would highly reccomend you install [VScode](https://code.visualstudio.com/). This makes merge conflicts easy to fix
+
+In this tutorial we will do the following things:
 - Create a new branch and make changes by adding a file
 - Within your branch, create a pull request where someone will review your code to see if it looks good.
 - Merge your branch back into main
