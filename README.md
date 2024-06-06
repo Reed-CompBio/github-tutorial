@@ -30,3 +30,4 @@ If you are currently in your own branch, you can merge any branch into your bran
 - `git push`
 - `git pull`
 - `git merge branch-name`
+- `git clone https://github.com/Reed-CompBio/github-tutorial.git`
